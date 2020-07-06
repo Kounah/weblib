@@ -1,6 +1,6 @@
 {
   "name": "@kounadev/weblib",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A TypeScript library for in-browser JavaScript functions",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
