@@ -1,4 +1,4 @@
-export default function bind(arg: any, target: (typeof Object), ...path: string[]) {
+export function bind(arg: any, target: (typeof Object), ...path: string[]) {
     // target must be an object
     if(typeof target != 'object')
         throw new Error('target is not an object');
