@@ -1,0 +1,24 @@
+{
+  "name": "@kounadev/weblib",
+  "version": "0.0.1",
+  "description": "A TypeScript library for in-browser JavaScript functions",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node_modules/typescript/bin/tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kounah/kouna-weblib.git"
+  },
+  "author": "Kouna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kounah/kouna-weblib/issues"
+  },
+  "homepage": "https://github.com/Kounah/kouna-weblib#readme",
+  "dependencies": {
+    "typescript": "^3.9.6"
+  }
+}
