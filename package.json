@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kounah/kouna-weblib.git"
+    "url": "git+https://github.com/Kounah/weblib.git"
   },
   "author": "Kouna",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kounah/kouna-weblib/issues"
+    "url": "https://github.com/Kounah/weblib/issues"
   },
-  "homepage": "https://github.com/Kounah/kouna-weblib#readme",
+  "homepage": "https://github.com/Kounah/weblib#readme",
   "dependencies": {
     "typescript": "^3.9.6"
   }
